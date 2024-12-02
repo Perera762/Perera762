@@ -17,7 +17,8 @@ Sou um desenvolvedor apaixonado por tecnologia, especialmente em desenvolvimento
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=Perera762&show_icons=true&theme=dracula" height="180px" alt="Estatísticas do GitHub">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perera762&layout=compact&theme=dracula&hide_progress=true" height="172px" alt="Linguagens Mais Usadas">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Perera762&layout=compact)
 
 
 
